@@ -10,7 +10,7 @@ This repository is for practicing Git forking and branching workflow!
 
 2. **Clone your fork**
    ```bash
-   git clone https://github.com/YOUR-USERNAME/fork-practice-suyash.git
+   git clone https://github.com/suyashsahu00/fork-practice-suyash.git
    cd fork-practice-suyash
 
    ```
